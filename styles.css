@@ -1,0 +1,171 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.nav-link {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.sourcing {
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+}
+
+.about-us{
+    background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+    padding: 50px 0px;
+}
+
+.about-us h2 {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.about-us p {
+    font-size: 20px;
+    padding: 20px 50px;
+}
+
+.mission-vision-value i {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.mission-vision-value p {
+    font-size: 20px;
+    text-align: justify;
+}
+
+.feedbacks {
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+    padding: 70px 0px;
+}
+
+.feedbacks h1 {
+    margin-bottom: 20px;
+}
+
+.feedbacks p.statements {
+    padding: 20px 200px;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+.feedbacks p.position {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.products img {
+    margin: 10px 15px;
+}
+
+.glider-contain {
+    padding: 10px 200px;
+}
+
+.glider {
+    border: 4px solid;
+    border-image: linear-gradient(to right, #8cc9f0, #efa8b0, #a89cc8) 5
+}
+
+.glider-contain img {
+    padding: 15px;
+    margin-right: 20px;
+}
+
+.fa-arrow-left .fa-arrow-right {
+    color: #a89cc8;
+}
+
+.address i {
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+.address p {
+    margin: 0px;
+    font-size: 20px;
+}
+
+.quote {
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+
+.getQuote, .getStartedButton {
+    color: white;
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+    border: 0px;
+    font-size: 20px;
+    padding: 13px 20px;
+}
+
+.servicesSummary{
+    margin-top: 130px;
+}
+
+.servicesSummary .card {
+    border: 0px;
+}
+
+.servicesSummary i {
+    font-size: 40px;
+    margin-bottom: 20px;
+    background-color: #c7f9cc;
+    border-radius: 55px;
+    padding: 20px;
+}
+
+.servicesSummary p {
+    text-align: justify;
+}
+
+.supplierCredibility {
+    margin-top: 100px;
+}
+
+.supplierCredibility .col, .sourcing .col, .samples .col, .qualityAssurance .col, .packaging .col, .shipmentHandling .col {
+    padding: 50px;
+}
+
+.supplierCredibility p, .sourcing p, .samples p, .qualityAssurance p, .packaging p, .shipmentHandling p {
+    text-align: justify;
+}
+
+.sourcing, .samples, .qualityAssurance, .packaging, .shipmentHandling {
+    margin-top: 110px;
+}
+
+.getStarted {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.clientsContainer .card {
+    padding: 20px;
+}
+
+.companyOverview p {
+    margin-top: 15px;
+    font-size: 18px;
+    text-align: justify;
+}
+
+.ceoMessage P {
+    font-size: 20px;
+    text-align: justify;
+}
+
+.footer {
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+    padding: 50px 20px;
+}
+
+.social-links i {
+    font-size: 40px;
+    margin-right: 15px;
+}
